@@ -1,0 +1,32 @@
+*.fig
+node_modules/
+vendor/
+.next/
+dist/
+build/
+.cache/
+.DS_Store
+Thumbs.db
+*.log
+
+# Secrets / environment files
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Large design files
+*.fig
+
+# Dependencies / build outputs
+node_modules/
+vendor/
+.next/
+dist/
+build/
+.cache/
+
+# OS / logs
+.DS_Store
+Thumbs.db
+*.log
